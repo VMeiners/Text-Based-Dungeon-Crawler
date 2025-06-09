@@ -24,6 +24,8 @@ The Bedtime Adventure text-based dungeon crawler was created with Python. In thi
 
 **Sample Interaction**
 
+![DungeonCrawler](https://github.com/user-attachments/assets/69677438-9145-4888-99c6-a78034d790b4)
+
 
 **Future Improvements**
 - Add input validation to accept uppercase/lowercase and prevent invalid commands.
